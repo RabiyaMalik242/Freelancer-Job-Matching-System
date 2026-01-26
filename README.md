@@ -24,6 +24,7 @@ The system emphasizes clean architecture, proper input validation, structured ex
 
    ```bash
    git clone https://github.com/RabiyaMalik242/Freelancer-Job-Matching-System.git
+   cd Freelancer-Job-Matching-System
    
    ```
 
