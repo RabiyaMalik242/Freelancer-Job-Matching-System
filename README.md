@@ -23,7 +23,7 @@ The system emphasizes clean architecture, proper input validation, structured ex
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/fjms.git
+   git clone https://github.com/RabiyaMalik242/fjms.git
    cd fjms
    ```
 
